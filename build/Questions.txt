@@ -1,0 +1,13 @@
+1. What are the primary sensor types logged in this file?
+
+2. How is time represented across records? Is there a common timestamp?
+
+3. How are IMU readings structured? What units do you expect for gyro and acceleration?
+
+4. What is the difference between RelAlt and Alt in the GPS section?
+
+5. Can you compute average speed and identify peak speed moments?
+
+6. Are there any anomalies in this flight?
+
+7. Can you spot any issues in the GPS data?
