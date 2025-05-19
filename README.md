@@ -47,7 +47,7 @@ docker logs <container id>
 
 ```
 
-#BACKEND
+BACKEND
 
 Open a new terminal and split it
 
