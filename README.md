@@ -54,7 +54,9 @@ Open a new terminal and split it
 Terminal 1 - In the main project directory (UAVLogViewer-master), Run the frontendusing the command "npm run dev"
 
 Create a virtual python environment and activate it
+
 Install all the dependent libraries using requirements.txt
+
 Add the Open AI API Key in a .env file in the backend folder
 
 Terminal 2 - In the second terminal, Open the backend directory using "cd .\backend\" and run the backend using the command "uvicorn main:app --reload"
